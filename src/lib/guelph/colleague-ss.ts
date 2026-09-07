@@ -18,7 +18,7 @@ import {
 
 const BASE_URL = "https://colleague-ss.uoguelph.ca";
 const USER_AGENT =
-  "GryphCal/1.0 (University of Guelph timetable to ICS; +https://github.com/)";
+  "GryphCal/1.0 (University of Guelph timetable to ICS; +https://github.com/kenjiifx/GryphCal)";
 
 const TERMS_TTL_MS = 6 * 60 * 60 * 1000;
 const SEARCH_TTL_MS = 4 * 60 * 60 * 1000;
